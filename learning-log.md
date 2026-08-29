@@ -13,3 +13,8 @@ I'm learning Git and version control to track my work.
 - Every commit is a snapshot you can go back to
 - Branches let you experiment without affecting the main project
 - You can merge branches back together when ready
+
+## Next Steps
+- Learn about rebasing and interactive rebase
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
